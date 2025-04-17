@@ -14,7 +14,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Sahil-v05/ChatBot_Rag.git
+   git clone https://github.com/Nishith55/ChatBot_Rag.git
    cd ChatBot_Rag
 
 2.**Install Dependencies**:
